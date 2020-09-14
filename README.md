@@ -1,2 +1,2 @@
-# vidlii-translations
+# VidLii Translations
 Translations for "VidLii Remade"
