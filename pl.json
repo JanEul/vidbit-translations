@@ -1,0 +1,4 @@
+{
+  "hello": "Cześć {name}",
+  "bye": "Do zobaczenia {name}"
+}
