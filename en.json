@@ -1,0 +1,23 @@
+{
+  "secondAgo": "{num} second ago",
+  "secondAgo2": "{num} seconds ago",
+  "minuteAgo": "{num} minute ago",
+  "minuteAgo2": "{num} minutes ago",
+  "hourAgo": "{num} hour ago",
+  "hourAgo2": "{num} hours ago",
+  "dayAgo": "{num} day ago",
+  "dayAgo2": "{num} days ago",
+  "weekAgo": "{num} week ago",
+  "weekAgo2": "{num} weeks ago",
+  "monthAgo": "{num} month ago",
+  "monthAgo2": "{num} months ago",
+  "yearAgo": "{num} year ago",
+  "yearAgo2": "{num} years ago",
+
+  "dateFormat": "%b %e, %Y",
+  "timeFormat": "%I:%M%p",
+  "dateTimeFormat": "%b %e, %Y %I:%M%p",
+
+  "hello": "Hello {name}",
+  "bye": "Bye {name}"
+}
