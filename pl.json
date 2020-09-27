@@ -1,4 +1,24 @@
 {
+   "justNow": "teraz",
+  "secondAgo": "{num} sekundy temu",
+  "secondAgo2": "{num} sekund temu",
+  "minuteAgo": "{num} minute temu",
+  "minuteAgo2": "{num} minuty temu",
+  "hourAgo": "{num} godzine temu",
+  "hourAgo2": "{num} godziny temu",
+  "dayAgo": "{num} dzień temu",
+  "dayAgo2": "{num} dni temu",
+  "weekAgo": "{num} tydzień temu",
+  "weekAgo2": "{num} tygodni temu",
+  "monthAgo": "{num} miesiąc temu",
+  "monthAgo2": "{num} miesięcy temu",
+  "yearAgo": "{num} rok temu",
+  "yearAgo2": "{num} lat temu",
+
+  "dateFormat": "%b %e, %Y",
+  "timeFormat": "%I:%M%p",
+  "dateTimeFormat": "%b %e, %Y %I:%M%p",
+  
   "hello": "Cześć {name}",
   "bye": "Do zobaczenia {name}"
 }
