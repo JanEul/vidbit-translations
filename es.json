@@ -21,4 +21,30 @@
 
   "hello": "Hola {name}",
   "bye": "Adios {name}"
+  
+  "headerNavSignUp": "Registrarse",
+  "headerNavQuicklist": "Ver mas tarde",
+  "headerNavHelp": "Ayuda",
+  "headerNavSignIn": "Iniciar Sesion",
+
+  "headerMenuHome": "Inicio",
+  "headerMenuVideos": "Videos",
+  "headerMenuChannels": "Canales",
+  "headerMenuCommunity": "Comunidad",
+
+  "headerBarSearch": "Buscar",
+  "headerBarSearchSettings": "Configuraciones de Busqueda",
+  "headerBarUpload": "Subir",
+  "headerBarUploadFile": "Archivo de Video",
+  "headerBarUploadCapture": "Captura Rapida",
+
+  "headerNavSignUpTitle": "Registrarse en Vidlii",
+  "headerNavSignUpDisplayName": "Nickname",
+  "headerNavSignUpEmail": "Correo Electronico",
+  "headerNavSignUpPassword": "Contraseña",
+  "headerNavSignUpConfirm": "Confirmar Contraseña",
+  "headerNavSignUpTOS": "Al hacer click en \"Registrar\", usted<br> estara confirmando el estar de acuerdo con nuestros <a href=\"/terms\">Terminos y Condiciones</a>",
+
+  "headerNavSignInTitle": "Iniciar sesion en Vidlii",
+  "headerNavSignInForgot": "¿Olvidaste tus datos?"
 }
