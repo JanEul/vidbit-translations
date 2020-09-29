@@ -1,0 +1,24 @@
+{
+  "justNow": "ahora mismo",
+  "secondAgo": "hace un segundo",
+  "secondAgo2": "hace {num} segundos",
+  "minuteAgo": "hace un minuto",
+  "minuteAgo2": "hace {num} minutos",
+  "hourAgo": "hace una hora",
+  "hourAgo2": "hace {num} horas",
+  "dayAgo": "hace un dia",
+  "dayAgo2": "hace {num} dias",
+  "weekAgo": "hace una semana",
+  "weekAgo2": "hace {num} semanas",
+  "monthAgo": "hace un mes",
+  "monthAgo2": "hace {num} meses",
+  "yearAgo": "hace un año",
+  "yearAgo2": "hace {num} años",
+
+  "dateFormat": "%e %b, %Y",
+  "timeFormat": "%I:%M%p",
+  "dateTimeFormat": "%e %b, %Y %I:%M%p",
+
+  "hello": "Hola {name}",
+  "bye": "Adios {name}"
+}
