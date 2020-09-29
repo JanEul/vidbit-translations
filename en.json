@@ -19,6 +19,30 @@
   "timeFormat": "%I:%M%p",
   "dateTimeFormat": "%b %e, %Y %I:%M%p",
 
-  "hello": "Hello {name}",
-  "bye": "Bye {name}"
+
+  "headerNavSignUp": "Sign Up",
+  "headerNavQuicklist": "Quicklist",
+  "headerNavHelp": "Help",
+  "headerNavSignIn": "Sign In",
+
+  "headerMenuHome": "Home",
+  "headerMenuVideos": "Videos",
+  "headerMenuChannels": "Channels",
+  "headerMenuCommunity": "Community",
+
+  "headerBarSearch": "Search",
+  "headerBarSearchSettings": "Search Settings",
+  "headerBarUpload": "Upload",
+  "headerBarUploadFile": "Video File",
+  "headerBarUploadCapture": "Quick Capture",
+
+  "headerNavSignUpTitle": "VidLii Sign Up",
+  "headerNavSignUpDisplayName": "Display Name",
+  "headerNavSignUpEmail": "E-Mail",
+  "headerNavSignUpPassword": "Password",
+  "headerNavSignUpConfirm": "Confirm Password",
+  "headerNavSignUpTOS": "By clicking \"Sign Up\", you<br> agree with our <a href=\"/terms\">Terms of Service</a>",
+
+  "headerNavSignInTitle": "VidLii Sign In",
+  "headerNavSignInForgot": "Forgot your Credentials?"
 }
