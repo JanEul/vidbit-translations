@@ -20,7 +20,7 @@
   "dateTimeFormat": "%e %b, %Y %I:%M%p",
 
   "hello": "Hola {name}",
-  "bye": "Adios {name}"
+  "bye": "Adios {name}",
   
   "headerNavSignUp": "Registrarse",
   "headerNavQuicklist": "Ver mas tarde",
