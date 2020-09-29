@@ -1,0 +1,50 @@
+{
+  "justNow": "ahora mismo",
+  "secondAgo": "hace un segundo",
+  "secondAgo2": "hace {num} segundos",
+  "minuteAgo": "hace un minuto",
+  "minuteAgo2": "hace {num} minutos",
+  "hourAgo": "hace una hora",
+  "hourAgo2": "hace {num} horas",
+  "dayAgo": "hace un dia",
+  "dayAgo2": "hace {num} dias",
+  "weekAgo": "hace una semana",
+  "weekAgo2": "hace {num} semanas",
+  "monthAgo": "hace un mes",
+  "monthAgo2": "hace {num} meses",
+  "yearAgo": "hace un año",
+  "yearAgo2": "hace {num} años",
+
+  "dateFormat": "%e %b, %Y",
+  "timeFormat": "%I:%M%p",
+  "dateTimeFormat": "%e %b, %Y %I:%M%p",
+  
+  "hello": "Hola {name}",
+  "bye": "Adiós {name}"
+
+  "headerNavSignUp": "Registrarse",
+  "headerNavQuicklist": "Lista rápida",
+  "headerNavHelp": "Ayuda",
+  "headerNavSignIn": "Acceder",
+
+  "headerMenuHome": "Inicio",
+  "headerMenuVideos": "Vídeos",
+  "headerMenuChannels": "Canales",
+  "headerMenuCommunity": "Comunidad",
+
+  "headerBarSearch": "Buscar",
+  "headerBarSearchSettings": "Opciones avanzadas",
+  "headerBarUpload": "Subir",
+  "headerBarUploadFile": "Subir archivo de vídeo",
+  "headerBarUploadCapture": "Grabar de cámara web",
+
+  "headerNavSignUpTitle": "Registrarse en VidLii",
+  "headerNavSignUpDisplayName": "Nombre de usuario en VidLii",
+  "headerNavSignUpEmail": "Dirección de correo electrónico",
+  "headerNavSignUpPassword": "Contraseña",
+  "headerNavSignUpConfirm": "Confirmar contraseña",
+  "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>".
+
+  "headerNavSignInTitle": "Iniciar sesion en VidLii",
+  "headerNavSignInForgot": "¿Olvidaste tus datos?"
+}
