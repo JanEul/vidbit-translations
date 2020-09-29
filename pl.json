@@ -20,7 +20,7 @@
   "dateTimeFormat": "%b %e, %Y %I:%M%p",
   
 
-  "headerNavSignUp": "Zarejestruj",
+  "headerNavSignUp": "Zarejestruj się",
   "headerNavQuicklist": "Podręczna lista",
   "headerNavHelp": "Pomoc",
   "headerNavSignIn": "Zaloguj się",
@@ -40,8 +40,8 @@
   "headerNavSignUpDisplayName": "Nazwa użytkownika",
   "headerNavSignUpEmail": "E-Mail",
   "headerNavSignUpPassword": "Hasło",
-  "headerNavSignUpConfirm": "Potwierdź hasło",
-  "headerNavSignUpTOS": "Klikając \"Zarejestuj się\", zgadzasz<br> się z naszymi <a href=\"/terms\">Warunkami usługi</a>",
+  "headerNavSignUpConfirm": "Powtórz hasło",
+  "headerNavSignUpTOS": "Klikając \"Zarejestuj\", zgadzasz się<br> z naszymi <a href=\"/terms\">Warunkami usługi</a>",
 
   "headerNavSignInTitle": "Zaloguj się na VidLii",
   "headerNavSignInForgot": "Zapomniałeś loginu/hasła?"
