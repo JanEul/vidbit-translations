@@ -43,7 +43,7 @@
   "headerNavSignUpEmail": "Dirección de correo electrónico",
   "headerNavSignUpPassword": "Contraseña",
   "headerNavSignUpConfirm": "Confirmar contraseña",
-  "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>".
+  "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>",
 
   "headerNavSignInTitle": "Iniciar sesion en VidLii",
   "headerNavSignInForgot": "¿Olvidaste tus datos?"
