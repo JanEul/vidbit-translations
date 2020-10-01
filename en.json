@@ -44,5 +44,15 @@
   "headerNavSignUpTOS": "By clicking \"Sign Up\", you<br> agree with our <a href=\"/terms\">Terms of Service</a>",
 
   "headerNavSignInTitle": "VidLii Sign In",
-  "headerNavSignInForgot": "Forgot your Credentials?"
+  "headerNavSignInForgot": "Forgot your Credentials?",
+
+  "homeTrendingTrending": "Trending",
+  "homeTrendingViewed": "Most Viewed",
+  "homeTrendingDiscussed": "Most Discussed",
+  "homeTrendingFavorited": "Most Favorited",
+
+  "homeTrendingTrendingTitle": "Trending Videos",
+  "homeTrendingViewedTitle": "Most Viewed Videos",
+  "homeTrendingDiscussedTitle": "Most Discussed Videos",
+  "homeTrendingFavoritedTitle": "Most Favorited Videos"
 }
