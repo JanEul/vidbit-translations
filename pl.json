@@ -25,7 +25,7 @@
   "headerNavHelp": "Pomoc",
   "headerNavSignIn": "Zaloguj się",
 
-  "headerMenuHome": "Strona Główna",
+  "headerMenuHome": "Strona główna",
   "headerMenuVideos": "Filmy wideo",
   "headerMenuChannels": "Kanały",
   "headerMenuCommunity": "Społeczność",
@@ -33,16 +33,26 @@
   "headerBarSearch": "Szukaj",
   "headerBarSearchSettings": "Ustawienia wyszukiwania",
   "headerBarUpload": "Prześlij film",
-  "headerBarUploadFile": "Film Wideo",
-  "headerBarUploadCapture": "Szybkie Nagranie",
+  "headerBarUploadFile": "Film wideo",
+  "headerBarUploadCapture": "Szybkie nagranie",
 
   "headerNavSignUpTitle": "Zarejestruj się na VidLii",
   "headerNavSignUpDisplayName": "Nazwa użytkownika",
-  "headerNavSignUpEmail": "E-Mail",
+  "headerNavSignUpEmail": "E-mail",
   "headerNavSignUpPassword": "Hasło",
   "headerNavSignUpConfirm": "Powtórz hasło",
   "headerNavSignUpTOS": "Klikając \"Zarejestuj\", zgadzasz się<br> z naszymi <a href=\"/terms\">Warunkami usługi</a>",
 
   "headerNavSignInTitle": "Zaloguj się na VidLii",
-  "headerNavSignInForgot": "Zapomniałeś loginu/hasła?"
+  "headerNavSignInForgot": "Zapomniałeś loginu/hasła?",
+  
+  "homeTrendingTrending": "Zyskujące popularność",
+  "homeTrendingViewed": "Najczęściej wyświetlane",
+  "homeTrendingDiscussed": "Najczęściej komentowane",
+  "homeTrendingFavorited": "Najpopularniejsze zakładki",
+
+  "homeTrendingTrendingTitle": "Zyskujące popularność",
+  "homeTrendingViewedTitle": "Najczęściej wyświetlane",
+  "homeTrendingDiscussedTitle": "Najczęściej komentowane",
+  "homeTrendingFavoritedTitle": "Najpopularniejsze zakładki"
 }
