@@ -18,33 +18,33 @@
   "dateFormat": "%e %b, %Y",
   "timeFormat": "%I:%M%p",
   "dateTimeFormat": "%e %b, %Y %I:%M%p",
-  
+
   "hello": "Hola {name}",
-  "bye": "Adiós {name}",
+  "bye": "Adios {name}",
 
   "headerNavSignUp": "Registrarse",
-  "headerNavQuicklist": "Lista rápida",
+  "headerNavQuicklist": "Ver mas tarde",
   "headerNavHelp": "Ayuda",
-  "headerNavSignIn": "Acceder",
+  "headerNavSignIn": "Iniciar Sesion",
 
   "headerMenuHome": "Inicio",
-  "headerMenuVideos": "Vídeos",
+  "headerMenuVideos": "Videos",
   "headerMenuChannels": "Canales",
   "headerMenuCommunity": "Comunidad",
 
   "headerBarSearch": "Buscar",
-  "headerBarSearchSettings": "Opciones avanzadas",
+  "headerBarSearchSettings": "Opciones de Busqueda",
   "headerBarUpload": "Subir",
-  "headerBarUploadFile": "Subir archivo de vídeo",
-  "headerBarUploadCapture": "Grabar de cámara web",
+  "headerBarUploadFile": "Desde mi equipo",
+  "headerBarUploadCapture": "Captura Rapida",
 
-  "headerNavSignUpTitle": "Registrarse en VidLii",
-  "headerNavSignUpDisplayName": "Nombre de usuario en VidLii",
-  "headerNavSignUpEmail": "Dirección de correo electrónico",
+  "headerNavSignUpTitle": "Registrarse en Vidlii",
+  "headerNavSignUpDisplayName": "Nickname",
+  "headerNavSignUpEmail": "Correo Electronico",
   "headerNavSignUpPassword": "Contraseña",
-  "headerNavSignUpConfirm": "Confirmar contraseña",
-  "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>",
+  "headerNavSignUpConfirm": "Confirmar Contraseña",
+  "headerNavSignUpTOS": "Al hacer click en \"Registrar\", usted<br> estara confirmando el estar de acuerdo con nuestros <a href=\"/terms\">Terminos y Condiciones</a>",
 
-  "headerNavSignInTitle": "Iniciar sesion en VidLii",
+  "headerNavSignInTitle": "Iniciar sesion en Vidlii",
   "headerNavSignInForgot": "¿Olvidaste tus datos?"
 }
