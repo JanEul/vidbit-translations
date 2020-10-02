@@ -1,3 +1,58 @@
 {
+  "justNow": "just now",
+  "secondAgo": "{num} second ago",
+  "secondAgo2": "{num} seconds ago",
+  "minuteAgo": "{num} minute ago",
+  "minuteAgo2": "{num} minutes ago",
+  "hourAgo": "{num} hour ago",
+  "hourAgo2": "{num} hours ago",
+  "dayAgo": "{num} day ago",
+  "dayAgo2": "{num} days ago",
+  "weekAgo": "{num} week ago",
+  "weekAgo2": "{num} weeks ago",
+  "monthAgo": "{num} month ago",
+  "monthAgo2": "{num} months ago",
+  "yearAgo": "{num} year ago",
+  "yearAgo2": "{num} years ago",
 
+  "dateFormat": "%b %e, %Y",
+  "timeFormat": "%I:%M%p",
+  "dateTimeFormat": "%b %e, %Y %I:%M%p",
+
+
+  "headerNavSignUp": "Sign Up",
+  "headerNavQuicklist": "Quicklist",
+  "headerNavHelp": "Help",
+  "headerNavSignIn": "Sign In",
+
+  "headerMenuHome": "Home",
+  "headerMenuVideos": "Videos",
+  "headerMenuChannels": "Channels",
+  "headerMenuCommunity": "Community",
+
+  "headerBarSearch": "Search",
+  "headerBarSearchSettings": "Search Settings",
+  "headerBarUpload": "Upload",
+  "headerBarUploadFile": "Video File",
+  "headerBarUploadCapture": "Quick Capture",
+
+  "headerNavSignUpTitle": "VidLii Sign Up",
+  "headerNavSignUpDisplayName": "Display Name",
+  "headerNavSignUpEmail": "E-Mail",
+  "headerNavSignUpPassword": "Password",
+  "headerNavSignUpConfirm": "Confirm Password",
+  "headerNavSignUpTOS": "By clicking \"Sign Up\", you<br> agree with our <a href=\"/terms\">Terms of Service</a>",
+
+  "headerNavSignInTitle": "VidLii Sign In",
+  "headerNavSignInForgot": "Forgot your Credentials?",
+
+  "homeTrendingTrending": "Trending",
+  "homeTrendingViewed": "Most Viewed",
+  "homeTrendingDiscussed": "Most Discussed",
+  "homeTrendingFavorited": "Most Favorited",
+
+  "homeTrendingTrendingTitle": "Trending Videos",
+  "homeTrendingViewedTitle": "Most Viewed Videos",
+  "homeTrendingDiscussedTitle": "Most Discussed Videos",
+  "homeTrendingFavoritedTitle": "Most Favorited Videos"
 }
