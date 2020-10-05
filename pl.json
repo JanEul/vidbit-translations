@@ -24,6 +24,8 @@
   "headerNavQuicklist": "Podręczna lista",
   "headerNavHelp": "Pomoc",
   "headerNavSignIn": "Zaloguj się",
+  
+  "views": "{num} wyświetleń",
 
   "headerMenuHome": "Strona główna",
   "headerMenuVideos": "Filmy wideo",
@@ -41,10 +43,30 @@
   "headerNavSignUpEmail": "E-mail",
   "headerNavSignUpPassword": "Hasło",
   "headerNavSignUpConfirm": "Powtórz hasło",
-  "headerNavSignUpTOS": "Klikając \"Zarejestuj\", zgadzasz się<br> z naszymi <a href=\"/terms\">Warunkami usługi</a>",
+  "headerNavSignUpTOS": "Klikając \"Zarejestuj\", zgadzasz się<br> z naszymi <a href=\"/terms\">Warunki korzystania</a>",
 
   "headerNavSignInTitle": "Zaloguj się na VidLii",
   "headerNavSignInForgot": "Zapomniałeś loginu/hasła?",
+  
+  "homeVideosBeingWatched": "Oglądane obecnie filmy wideo",
+  "homeFeaturedVideos": "Polecane filmy wideo",
+
+  "homePersonalize": "Chcesz spersonalizować stronę główną?",
+  "homePersonalize2": "Zarejestruj swoje konto VidLii",
+  "homePersonalize3": "Skonwertuj swoje stare konto VidLii",
+  "homePersonalizeInfo": "Musisz skonwertować swoje stare konto VidLii na nowy system aby się zalogować",
+
+  "homePopularChannels": "Popularne kanały",
+  "homePopularChannelsVideos": "{num} Filmów wideo",
+  "homePopularChannelsSubs": "{num} Subskrybentów",
+
+  "homeContest": "{month} Konkurs wideo",
+  "homeContestText": "Stwórz film, dodaj go i podziel się nim!",
+  "homeContestText2": "Aktualny temat: {theme}",
+  "homeContestPodium": "Ostatnie podium w poprzednim konkursie",
+
+  "homeNew": "Nowości",
+  "homeNewRead": "Przeczytaj więcej na naszym blogu",
   
   "homeTrendingTrending": "Zyskujące popularność",
   "homeTrendingViewed": "Najczęściej wyświetlane",
@@ -54,5 +76,55 @@
   "homeTrendingTrendingTitle": "Zyskujące popularność",
   "homeTrendingViewedTitle": "Najczęściej wyświetlane",
   "homeTrendingDiscussedTitle": "Najczęściej komentowane",
-  "homeTrendingFavoritedTitle": "Najpopularniejsze zakładki"
+  "homeTrendingFavoritedTitle": "Najpopularniejsze zakładki",
+  
+  "homeTrendingFrom": "Stworzone przez:",
+  "homeTrendingViews": "Wyświetleń:",
+  "homeTrendingPostedIn": "Dodane w:",
+
+
+  "footerVideoPlayer": "Otwarzacz wideo",
+  "footerDarkMode": "Czarny motyw",
+  "footerHeader": "Nagłówek",
+
+  "footerLanguagesTitle": "Język",
+
+  "footerHeaderTitle": "Nagłówek",
+  "footerHeader1Title": "Nagłówek z zakładkami (2008)",
+  "footerHeader1": "Najbardziej znany nagłówek z \"klasycznego YouTube'a\". Największy ale zarazem najbardziej bogaty w funkcje.",
+  "footerHeader2Title": "Nagłówek z paskiem (2009)",
+  "footerHeader2": "Duży pasek z różnymi kolorami.",
+  "footerHeader3Title": "Mały nagłówek (2009)",
+  "footerHeader3": "Ponieważ małe jest piękne.",
+  "footerHeader4Title": "Nagłówek kompaktowy (2011)",
+  "footerHeader4": "Najbardziej minimalistyczny ze wszystkich tu podanych. Idealny dla ludzi którzy cenią sobie minimalizm.",
+  "footerHeader5Title": "\"Kosmiczny\" nagłówek (2012)",
+  "footerHeader5": "Bardzo podobny do nagłówka kompaktowego - z lekkimi modyfikacjami kolorów oraz ikon.",
+  "footerHeader6Title": "U--uhh... nagłówek? (ZippCast)",
+  "footerHeader6": "Również znany jako wczesny nagłówek używany w wyglądzie beta YouTube w 2012.",
+  "footerHeader61": "Czasy ładowania strony wynoszące 2 minuty nie są uwzględniane w tym nagłówku.",
+  "footerHeaderLoggedIn": "Ponieważ jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do twojego profilu",
+  "footerHeaderLoggedOut": "Ponieważ nie jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do ciasteczek wirtyny",
+
+  "footerAbout": "VidLii",
+  "footerBlog": "Blog",
+  "footerAboutAbout": "O nas",
+  "footerTerms": "Warunki korzystania z serwisu",
+  "footerPrivacy": "Polityka Prywatności",
+  "footerContact": "Kontakt",
+  "footerTestlii": "TestLii",
+  "footerHelpInfo": "Pomoc i informacje",
+  "footerHelpCenter": "Zasoby pomocy",
+  "footerCommunity": "Wytyczne dla społeczności",
+  "footerDeveloper": "API dla programistów",
+  "footerPartnership": "Partnerstwo",
+  "footerCopyright": "Prawa autorskie",
+  "footerAds": "Reklamy",
+  "footerAccount": "Twoje konto",
+  "footerMyVideos": "Filmy wideo",
+  "footerMyFavorites": "Ulubione",
+  "footerMyPlaylist": "Listy otwarzania",
+  "footerMySubscriptions": "Subskrypcje",
+  "footerMyAccount": "Konto",
+  "footerInbox": "Skrzynka odbiorcza"
 }
