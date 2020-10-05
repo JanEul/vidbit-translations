@@ -47,7 +47,7 @@
   "headerNavSignUpConfirm": "Confirmar contraseña",
   "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>.",
 
-  "headerBrowse": "Buscar",
+  "headerBrowse": "Explorar",
   
   "headerNavSignInTitle": "Iniciar sesion en VidLii",
   "headerNavSignInForgot": "¿Olvidaste tus datos?",
@@ -84,7 +84,7 @@
    
   "homeTrendingFrom": "De:",
   "homeTrendingViews": "Reproducciones:",
-  "homeTrendingPostedIn": "Añadido:",
+  "homeTrendingPostedIn": "Más en",
 
   "footerVideoPlayer": "Reproductor",
   "footerDarkMode": "Modo oscuro",
