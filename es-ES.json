@@ -27,6 +27,8 @@
   "headerNavHelp": "Ayuda",
   "headerNavSignIn": "Acceder",
 
+  "views": "{num} reproducciones",
+  
   "headerMenuHome": "Inicio",
   "headerMenuVideos": "Vídeos",
   "headerMenuChannels": "Canales",
@@ -45,8 +47,30 @@
   "headerNavSignUpConfirm": "Confirmar contraseña",
   "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>.",
 
+  "headerBrowse": "Buscar",
+  
   "headerNavSignInTitle": "Iniciar sesion en VidLii",
   "headerNavSignInForgot": "¿Olvidaste tus datos?",
+  
+   "homeVideosBeingWatched": "Vídeos que se están viendo ahora...",
+  "homeFeaturedVideos": "Vídeos promocionados",
+  
+  "homePersonalize": "¿Quieres personalizar esta página principal?",
+  "homePersonalize2": "Regístrate para obtener una cuenta de VidLii.",
+  "homePersonalize3": "Convierte tu vieja cuenta de VidLii",
+  "homePersonalizeInfo": "Debes convertir tu cuenta vieja de VidLii para acceder a ella.",
+  
+  "homePopularChannels": "Canales populares",
+  "homePopularChannelsVideos": "{num} vídeos",
+  "homePopularChannelsSubs": "{num} suscriptores",
+  
+  "homeContest": "¡Concurso de {month}!",
+  "homeContestText": "¡Haz un vídeo, súbelo y compártelo!",
+  "homeContestText2": "Tema actual: {theme}",
+  "homeContestPodium": "Ganadores del anterior concurso",
+  
+  "homeNew": "Novedades",
+  "homeNewRead": "Más información en nuestro blog",
   
   "homeTrendingTrending": "Vídeos destacados",
   "homeTrendingViewed": "Más vistos",
@@ -57,4 +81,53 @@
   "homeTrendingViewedTitle": "Más vistos",
   "homeTrendingDiscussedTitle": "Más comentados",
   "homeTrendingFavoritedTitle": "Superfavoritos"
+   
+  "homeTrendingFrom": "De:",
+  "homeTrendingViews": "Reproducciones:",
+  "homeTrendingPostedIn": "Añadido:",
+
+  "footerVideoPlayer": "Reproductor",
+  "footerDarkMode": "Modo oscuro",
+  "footerHeader": "Encabezado",
+
+  "footerLanguagesTitle": "Idioma",
+  
+   "footerHeaderTitle": "Encabezados",
+  "footerHeader1Title": "Pestañas (2008)",
+  "footerHeader1": "El famoso encabezado del \"YouTube clásico\". Bastante grande pero tiene la mayoría de características.",
+  "footerHeader2Title": "Barra (2009)",
+  "footerHeader2": "Una barra enorme con unos cuantos degradados.",
+  "footerHeader3Title": "Mini encabezado (2009)",
+  "footerHeader3": "Un simple y hermoso encabezado.",
+  "footerHeader4Title": "Compacto (2011)",
+  "footerHeader4": "El más minimalista de todos. Perfecto para la gente que quiere ahorrar espacio.",
+  "footerHeader5Title": "Cosmic Panda (2012)",
+  "footerHeader5": "Similar al anterior. Se diferencia por su color y tamaño.",
+  "footerHeader6Title": "Encabezado lento (ZippCast)",
+  "footerHeader6": "También conocido como el encabezado Cosmic Panda Beta.",
+  "footerHeader61": "Tiempos de carga de 2 minutos no incluídos.",
+  "footerHeaderLoggedIn": "Al tener una sesión iniciada, esta configuración se ha guardado en tu perfil.",
+  "footerHeaderLoggedOut": "Al no tener una sesión iniciada, esta configuración se ha guardado en tus cookies.",
+  
+  "footerAbout": "Acerca de VidLii",
+  "footerBlog": "Blog",
+  "footerAboutAbout": "Acerca",
+  "footerTerms": "Términos de uso",
+  "footerPrivacy": "Política de privacidad",
+  "footerContact": "Contacto",
+  "footerTestlii": "TestLii",
+  "footerHelpInfo": "Ayuda e información",
+  "footerHelpCenter": "Recursos de ayuda",
+  "footerCommunity": "Instrucciones de la comunidad",
+  "footerDeveloper": "API para desarrolladores",
+  "footerPartnership": "Partnership",
+  "footerCopyright": "Copyright",
+  "footerAds": "Publicidad",
+  "footerAccount": "Tu cuenta",
+  "footerMyVideos": "Vídeos",
+  "footerMyFavorites": "Favoritos",
+  "footerMyPlaylist": "Listas de reproducción",
+  "footerMySubscriptions": "Suscripciones",
+  "footerMyAccount": "más...",
+  "footerInbox": "Bandeja de entrada"
 }
