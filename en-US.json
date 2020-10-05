@@ -24,6 +24,9 @@
   "headerNavQuicklist": "Quicklist",
   "headerNavHelp": "Help",
   "headerNavSignIn": "Sign In",
+  "headerNavCreateAccount": "Create Account",
+
+  "views": "{num} views",
 
   "headerMenuHome": "Home",
   "headerMenuVideos": "Videos",
@@ -43,8 +46,30 @@
   "headerNavSignUpConfirm": "Confirm Password",
   "headerNavSignUpTOS": "By clicking \"Sign Up\", you<br> agree with our <a href=\"/terms\">Terms of Service</a>",
 
+  "headerBrowse": "Browse",
+
   "headerNavSignInTitle": "VidLii Sign In",
   "headerNavSignInForgot": "Forgot your Credentials?",
+
+  "homeVideosBeingWatched": "Videos Being Watched Now",
+  "homeFeaturedVideos": "Featured Videos",
+
+  "homePersonalize": "Want to personalize this homepage?",
+  "homePersonalize2": "Sign up for a VidLii Account",
+  "homePersonalize3": "Convert your old VidLii account",
+  "homePersonalizeInfo": "You must convert your old VidLii account to the new system to sign into it",
+
+  "homePopularChannels": "Popular Channels",
+  "homePopularChannelsVideos": "{num} Videos",
+  "homePopularChannelsSubs": "{num} Subscribers",
+
+  "homeContest": "{month} Video Contest",
+  "homeContestText": "Make a video, upload it and share it!",
+  "homeContestText2": "Current Theme: {theme}",
+  "homeContestPodium": "Last Contests Podium",
+
+  "homeNew": "What's New",
+  "homeNewRead": "Read more in our blog",
 
   "homeTrendingTrending": "Trending",
   "homeTrendingViewed": "Most Viewed",
@@ -54,5 +79,55 @@
   "homeTrendingTrendingTitle": "Trending Videos",
   "homeTrendingViewedTitle": "Most Viewed Videos",
   "homeTrendingDiscussedTitle": "Most Discussed Videos",
-  "homeTrendingFavoritedTitle": "Most Favorited Videos"
+  "homeTrendingFavoritedTitle": "Most Favorited Videos",
+
+  "homeTrendingFrom": "From:",
+  "homeTrendingViews": "Views:",
+  "homeTrendingPostedIn": "Posted in:",
+
+
+  "footerVideoPlayer": "Video Player",
+  "footerDarkMode": "Dark-Mode",
+  "footerHeader": "Header",
+
+  "footerLanguagesTitle": "Languages",
+
+  "footerHeaderTitle": "Headers",
+  "footerHeader1Title": "Tab Header (2008)",
+  "footerHeader1": "The most famous \"classic YouTube\" header. Pretty huge but it also packs the most features.",
+  "footerHeader2Title": "Bar Header (2009)",
+  "footerHeader2": "A huge bar with a bunch of different gradients",
+  "footerHeader3Title": "Mini Header (2009)",
+  "footerHeader3": "A simple, yet good looking header.",
+  "footerHeader4Title": "Compact Header (2011)",
+  "footerHeader4": "The most minimalistic of all the headers. Perfect for people who want to save space",
+  "footerHeader5Title": "Cosmic Header (2012)",
+  "footerHeader5": "Similar to the compact header. Mainly different in color and size.",
+  "footerHeader6Title": "Laggy Header (ZippCast)",
+  "footerHeader6": "Also known as the beta cosmic panda header.",
+  "footerHeader61": "Page load times of 2 minutes are not included.",
+  "footerHeaderLoggedIn": "Because you're logged in, this setting is tied to your profile",
+  "footerHeaderLoggedOut": "Because you're logged out, this setting is saved in a cookie",
+
+  "footerAbout": "About VidLii",
+  "footerBlog": "Blog",
+  "footerAboutAbout": "About",
+  "footerTerms": "Terms of Use",
+  "footerPrivacy": "Privacy Policy",
+  "footerContact": "Contact",
+  "footerTestlii": "TestLii",
+  "footerHelpInfo": "Help & Info",
+  "footerHelpCenter": "Help Center",
+  "footerCommunity": "Community Guidelines",
+  "footerDeveloper": "Developer API",
+  "footerPartnership": "Partnership",
+  "footerCopyright": "Copyright",
+  "footerAds": "Advertising",
+  "footerAccount": "Your Account",
+  "footerMyVideos": "My Videos",
+  "footerMyFavorites": "My Favorites",
+  "footerMyPlaylist": "My Playlists",
+  "footerMySubscriptions": "My Subscriptions",
+  "footerMyAccount": "My Account",
+  "footerInbox": "My Inbox"
 }
