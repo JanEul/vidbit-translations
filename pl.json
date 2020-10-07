@@ -24,6 +24,10 @@
   "headerNavQuicklist": "Podręczna lista",
   "headerNavHelp": "Pomoc",
   "headerNavSignIn": "Zaloguj się",
+  "headerNavOr": "lub",
+  "headerNavHistory": "Historia",
+  "headerNavSubscriptions": "Subskrypcje",
+
   
   "views": "{num} wyświetleń",
 
