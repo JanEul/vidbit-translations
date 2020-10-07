@@ -25,6 +25,10 @@
   "headerNavHelp": "Help",
   "headerNavSignIn": "Sign In",
   "headerNavCreateAccount": "Create Account",
+  "headerNavOr": "or",
+  "headerNavHistory": "History",
+  "headerNavSubscriptions": "Subscriptions",
+
 
   "views": "{num} views",
 
