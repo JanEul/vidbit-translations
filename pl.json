@@ -64,7 +64,7 @@
   "homePopularChannelsVideos": "{num} Filmów wideo",
   "homePopularChannelsSubs": "{num} Subskrybentów",
 
-  "homeContest": "{month} Konkurs wideo",
+  "homeContest": "Konkurs wideo - miesiąc {month}",
   "homeContestText": "Stwórz film, dodaj go i podziel się nim!",
   "homeContestText2": "Aktualny temat: {theme}",
   "homeContestPodium": "Ostatnie podium w poprzednim konkursie",
@@ -105,7 +105,7 @@
   "footerHeader5Title": "\"Kosmiczny\" nagłówek (2012)",
   "footerHeader5": "Bardzo podobny do nagłówka kompaktowego - z lekkimi modyfikacjami kolorów oraz ikon.",
   "footerHeader6Title": "U--uhh... nagłówek? (ZippCast)",
-  "footerHeader6": "Również znany jako wczesny nagłówek używany w wyglądzie beta YouTube w 2012.",
+  "footerHeader6": "Również znany jako wczesny nagłówek używany w wyglądzie beta YouTube z 2012 roku.",
   "footerHeader61": "Czasy ładowania strony wynoszące 2 minuty nie są uwzględniane w tym nagłówku.",
   "footerHeaderLoggedIn": "Ponieważ jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do twojego profilu.",
   "footerHeaderLoggedOut": "Ponieważ nie jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do ciasteczek wirtyny.",
