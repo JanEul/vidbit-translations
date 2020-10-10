@@ -26,7 +26,11 @@
   "headerNavQuicklist": "Lista rápida",
   "headerNavHelp": "Ayuda",
   "headerNavSignIn": "Acceder",
-
+  "headerNavCreateAccount": "Crear cuenta",
+  "headerNavOr": "o",
+  "headerNavHistory": "Historial",
+  "headerNavSubscriptions": "Suscripciones",
+  
   "views": "{num} reproducciones",
   
   "headerMenuHome": "Inicio",
@@ -52,7 +56,7 @@
   "headerNavSignInTitle": "Iniciar sesion en VidLii",
   "headerNavSignInForgot": "¿Olvidaste tus datos?",
   
-   "homeVideosBeingWatched": "Vídeos que se están viendo ahora...",
+  "homeVideosBeingWatched": "Vídeos que se están viendo ahora...",
   "homeFeaturedVideos": "Vídeos promocionados",
   
   "homePersonalize": "¿Quieres personalizar esta página principal?",
