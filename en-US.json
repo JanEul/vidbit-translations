@@ -141,6 +141,7 @@
   "footerHeader61": "Page load times of 2 minutes are not included.",
   "footerHeaderLoggedIn": "Because you're logged in, this setting is tied to your profile",
   "footerHeaderLoggedOut": "Because you're logged out, this setting is saved in a cookie",
+  "footerHeaderChange": "Change Header",
 
   "footerAbout": "About VidLii",
   "footerBlog": "Blog",
