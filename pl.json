@@ -139,6 +139,7 @@
   "footerHeader61": "Czasy ładowania strony wynoszące 2 minuty nie są uwzględniane w tym nagłówku.",
   "footerHeaderLoggedIn": "Ponieważ jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do twojego profilu.",
   "footerHeaderLoggedOut": "Ponieważ nie jesteś zalogowany/a, każde ustawienie nagłówka będzie przypisane do ciasteczek wirtyny.",
+  "footerHeaderChange": "Zmień wygląd nagłówka",
 
   "footerAbout": "VidLii",
   "footerBlog": "Blog",
