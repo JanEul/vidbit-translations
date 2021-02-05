@@ -231,5 +231,11 @@
   "activationHow2": "Click on the email with the subject: \"<strong>VidLii Activation</strong>\"",
   "activationHow3": "Then click on the blue link saying. \"<strong><u>Click Here</u></strong>\"",
   "activationHow4": "After you've done that, you should be good to go!",
-  "activationFinal": "Please note that the email might take a few minutes to arrive. Also check your spam folder."
+  "activationFinal": "Please note that the email might take a few minutes to arrive. Also check your spam folder.",
+
+  "commentsSortBest": "Best Comments",
+  "commentsSortLiked": "Liked Comments",
+  "commentsSortDiscussed": "Discussed Comments",
+  "commentsSortControversial": "Controversial Comments",
+  "commentsSortRecent": "Recent Comments"
 }
