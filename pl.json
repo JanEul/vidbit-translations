@@ -229,5 +229,11 @@
   "activationHow2": "Kliknij na maila z tytułem: \"<strong>Aktywacja twojego konta VidLii</strong>\"",
   "activationHow3": "Po wejściu na maila kliknij również: \"<strong><u>Kliknij tutaj</u></strong>\"",
   "activationHow4": "Po tym jak to zrobisz, twoje konto powinno zostać aktywowane!",
-  "activationFinal": "Pamiętaj, że wysłanie/otrzymanie wiadomości e-mail może potrwać kilka minut. Sprawdź również swój folder spamu."
+  "activationFinal": "Pamiętaj, że wysłanie/otrzymanie wiadomości e-mail może potrwać kilka minut. Sprawdź również swój folder spamu.",
+
+  "commentsSortBest": "Najlepsze",
+  "commentsSortLiked": "Lubiane",
+  "commentsSortDiscussed": "Dyskutowane",
+  "commentsSortControversial": "Kontrowersyjne",
+  "commentsSortRecent": "Ostatnie"
 }
