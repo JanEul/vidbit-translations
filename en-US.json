@@ -17,7 +17,7 @@
 
   "dateFormat": "%b %e, %Y",
   "timeFormat": "%I:%M%p",
-  "dateTimeFormat": "%b%e, %Y %I:%M%p",
+  "dateTimeFormat": "%b %e, %Y %I:%M%p",
 
   "vCat0": "Film & Animation",
   "vCat1": "Autos & Vehicles",
