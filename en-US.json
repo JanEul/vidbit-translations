@@ -84,6 +84,19 @@
   "headerNavSignInTitle": "VidLii Sign In",
   "headerNavSignInForgot": "Forgot your Credentials?",
 
+  "headerDropdownAccountSettings": "Account Settings",
+  "headerDropdownMyProfile": "My Profile",
+  "headerDropdownSubscriptions": "Subscriptions",
+  "headerDropdownInbox": "Inbox",
+  "headerDropdownFriends": "Friends",
+  "headerDropdownChannel": "My Channel",
+  "headerDropdownVideos": "Videos",
+  "headerDropdownPlaylists": "Playlists",
+  "headerDropdownAnalytics": "Analytics",
+  "headerDropdownManage": "Manage Channels",
+  "headerDropdownCreate": "Create Channel",
+  "headerDropdownQuicklist": "Quicklist",
+
   "homeVideosBeingWatched": "Videos Being Watched Now",
   "homeFeaturedVideos": "Featured Videos",
 
@@ -118,6 +131,30 @@
   "homeTrendingViews": "Views:",
   "homeTrendingPostedIn": "Posted in:",
 
+  "homeEdit": "Edit",
+
+  "homeRecommendedVideos": "Recommended Videos",
+  "homeAnalytics": "Analytics",
+  "homeRecentActivity": "Recent Activity",
+  "homeSubscriptions": "Subscriptions",
+
+  "homeViewAll": "view all",
+  "homeSubscriptionsSettings": "Subscriptions Settings",
+  "homeSubscriptionsAll": "All Channels",
+  "homeNoSubscriptions1": "You don't seem to have any subscriptions at the moment",
+  "homeNoSubscriptions2": "Subscribing to channels is free and ensures that you're always up to date when your favorite channels upload",
+  "homeNoSubscriptions3": "Channels you could subscribe to:",
+
+  "homeCustomize": "Customize your Homepage",
+  "homeEditTitle1": "Enable/Disable Homepage Modules",
+  "homeEditTitle2": "Homepage Design",
+  "homeEditInfo1": "These are the most recently uploaded videos of channels you're subscribed to",
+  "homeEditInfo2": "Videos which VidLii thinks you'd like to watch",
+  "homeEditInfo3": "Videos which are the most watched at this very moment",
+  "homeEditInfo4": "Specifically selected videos from the VidLii Staff",
+  "homeEditInfo5": "The most popular videos of today ranked by many factors",
+  "homeEditInfo6": "Recent activity from your friends and channels you've subscribed to",
+  "homeEditInfo7": "Analytics concerning your active channel",
 
   "footerVideoPlayer": "Video Player",
   "footerDarkMode": "Dark-Mode",
@@ -277,5 +314,39 @@
   "videoDescriptionUploaded": "Uploaded:",
   "videoDescriptionCategory": "Category:",
   "videoDescriptionKeywords": "Keywords:",
-  "videoDescriptionEmbed": "Embed"
+  "videoDescriptionEmbed": "Embed",
+
+  "inboxMyAccount": "My Account",
+  "inboxMenuInbox": "Inbox",
+  "inboxMenuPersonalMessages": "Personal Messages",
+  "inboxMenuInvites": "Invites",
+  "inboxMenuFriendInvites": "Friend Invites",
+  "inboxMenuChannelInvites": "Channel Invites",
+  "inboxMenuComments": "Comments",
+  "inboxMenuVideoComments": "Video Comments",
+  "inboxMenuChannelComments": "Channel Comments",
+  "inboxMenuProfileComments": "Profile Comments",
+  "inboxMenuBlogComments": "Blog Comments",
+  "inboxMenuCommentReplies": "Comment Replies",
+  "inboxMenuVideoResponses": "Video Responses",
+  "inboxMenuSentMessages": "Sent Messages",
+  "inboxMenuCustomFolders": "Custom Folders",
+
+  "inboxMenuSendMessage": "Send Message",
+  "inboxMenuCreateFolder": "Create Folder",
+
+  "inboxActionsDelete": "Delete",
+  "inboxActionsMarkRead": "Mark as Read",
+  "inboxActionsMarkUnread": "Mark as Unread",
+  "inboxActionsAccept": "Accept",
+  "inboxActionsDecline": "Decline",
+  "inboxActionsAcceptInvite": "Accept Invite",
+  "inboxActionsDeclineInvite": "Decline Invite",
+  "inboxActionsRemove": "Remove from Folder",
+  "inboxActionsViewComment": "View Comment",
+  "inboxSearch": "Search Inbox",
+
+  "inboxSortFrom": "From",
+  "inboxSortSubject": "Subject",
+  "inboxSortDate": "Date"
 }
