@@ -81,6 +81,20 @@
 
   "headerNavSignInTitle": "Zaloguj się na VidLii",
   "headerNavSignInForgot": "Zapomniałeś loginu/hasła?",
+   
+  "headerDropdownAccountSettings": "Ustawienia konta",
+  "headerDropdownMyProfile": "Mój profil",
+  "headerDropdownSubscriptions": "Subskrypcje",
+  "headerDropdownInbox": "Skrzynka odbiorcza",
+  "headerDropdownFriends": "Znajomi",
+  "headerDropdownChannel": "Mój kanał",
+  "headerDropdownVideos": "Filmy",
+  "headerDropdownPlaylists": "Playlisty",
+  "headerDropdownAnalytics": "Statystyka",
+  "headerDropdownManage": "Zarządzaj kanałami",
+  "headerDropdownCreate": "Twórz kanał",
+  "headerDropdownQuicklist": "Lista odtwarzania",
+
   
   "homeVideosBeingWatched": "Oglądane obecnie filmy wideo",
   "homeFeaturedVideos": "Polecane filmy wideo",
@@ -115,6 +129,30 @@
   "homeTrendingFrom": "Stworzone przez:",
   "homeTrendingViews": "Wyświetleń:",
   "homeTrendingPostedIn": "Kategoria:",
+  "homeEdit": "Edytuj",
+
+  "homeRecommendedVideos": "Polecane filmy wideo",
+  "homeAnalytics": "Statystyka",
+  "homeRecentActivity": "Ostatnia aktywność",
+  "homeSubscriptions": "Subskrypcje",
+
+  "homeViewAll": "więcej",
+  "homeSubscriptionsSettings": "Ustawienia subskrypcji",
+  "homeSubscriptionsAll": "Wszystkie kanały",
+  "homeNoSubscriptions1": "Wygląda na to, że nie subskrybujesz żadnych kanałó",
+  "homeNoSubscriptions2": "Subskrybowanie kanałów jest bezpłatne i zapewnia, że zawsze będziesz na bieżąco, gdy Twoje ulubione kanały prześlą nowy film.",
+  "homeNoSubscriptions3": "Kanały które mogą Cię zainteresować:",
+
+  "homeCustomize": "Dostosuj swoją stronę główną",
+  "homeEditTitle1": "Wyłącz/włącz moduły strony głównej",
+  "homeEditTitle2": "Design strony głównej",
+  "homeEditInfo1": "To są ostatnio dodane filmy z subskrybowanych przez Ciebie kanałów",
+  "homeEditInfo2": "Filmy, które VidLii uważa, że chciałbyś obejrzeć",
+  "homeEditInfo3": "Filmy które są teraz najczęściej oglądane",
+  "homeEditInfo4": "Specjalnie wybrane filmy od pracowników VidLii",
+  "homeEditInfo5": "Najpopularniejsze obecnie filmy wideo uszeregowane według wielu czynników",
+  "homeEditInfo6": "Ostatnia aktywność Twoich znajomych i subskrybowanych kanałów",
+  "homeEditInfo7": "Analityka dotycząca Twojego aktywnego kanału",
 
 
   "footerVideoPlayer": "Odtwarzacz wideo",
@@ -275,5 +313,39 @@
   "videoDescriptionUploaded": "Dodany:",
   "videoDescriptionCategory": "Kategoria:",
   "videoDescriptionKeywords": "Tagi:",
-  "videoDescriptionEmbed": "Umieść"
+  "videoDescriptionEmbed": "Umieść",
+  
+  "inboxMyAccount": "Mój kanał",
+  "inboxMenuInbox": "Skrzynka odbiorcza",
+  "inboxMenuPersonalMessages": "Prywatne wiadomości",
+  "inboxMenuInvites": "Zaproszenia",
+  "inboxMenuFriendInvites": "Zaproszenia do znajomych",
+  "inboxMenuChannelInvites": "Zaproszenia do kanału",
+  "inboxMenuComments": "Komentarze",
+  "inboxMenuVideoComments": "Komentarze pod filmem",
+  "inboxMenuChannelComments": "Komentarze pod kanałem",
+  "inboxMenuProfileComments": "Komentarze pod profilem",
+  "inboxMenuBlogComments": "Komentarze na blogu",
+  "inboxMenuCommentReplies": "Odpowiedzi na komentarz",
+  "inboxMenuVideoResponses": "Odpowiedzi video",
+  "inboxMenuSentMessages": "Wysłane wiadomości",
+  "inboxMenuCustomFolders": "Własne foldery",
+
+  "inboxMenuSendMessage": "Wyślij wiadomość",
+  "inboxMenuCreateFolder": "Utwórz folder",
+
+  "inboxActionsDelete": "Usuń",
+  "inboxActionsMarkRead": "Oznacz jako przeczytane",
+  "inboxActionsMarkUnread": "Oznacz jako nieprzeczytane",
+  "inboxActionsAccept": "Akceptuj",
+  "inboxActionsDecline": "Odrzuć",
+  "inboxActionsAcceptInvite": "Akceptuj zaproszenie",
+  "inboxActionsDeclineInvite": "Odrzuć zaproszenie",
+  "inboxActionsRemove": "Usuń z folderu",
+  "inboxActionsViewComment": "Wyświetl komentarz",
+  "inboxSearch": "Szukaj w skrzynce",
+
+  "inboxSortFrom": "Od",
+  "inboxSortSubject": "Temat",
+  "inboxSortDate": "Data"
 }
