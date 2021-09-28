@@ -1,4 +1,5 @@
 {
+
   "justNow": "ahora mismo",
   "secondAgo": "hace un segundo",
   "secondAgo2": "hace {num} segundos",
@@ -17,8 +18,8 @@
 
   "dateFormat": "%e %b, %Y",
   "timeFormat": "%I:%M%p",
-  "dateTimeFormat": "%e %b, %Y %I:%M%p",
-  
+  "dateTimeFormat": "%e %b. %Y %I:%M%p",
+
   "vCat0": "Cine y animación",
   "vCat1": "Automoción",
   "vCat2": "Música",
@@ -48,9 +49,6 @@
   "cCat7": "Reportero",
   "cCat8": "Reseñadore",
   "cCat9": "Artista",
-  
-  "hello": "Hola {name}",
-  "bye": "Adiós {name}",
 
   "headerNavSignUp": "Registrarse",
   "headerNavQuicklist": "Lista rápida",
@@ -61,9 +59,9 @@
   "headerNavHistory": "Historial",
   "headerNavSubscriptions": "Suscripciones",
   "headerPromptSignOut": "¿Estás seguro de que quieres cerrar sesión?",
-  
+
   "views": "{num} reproducciones",
-  
+
   "headerMenuHome": "Inicio",
   "headerMenuVideos": "Vídeos",
   "headerMenuChannels": "Canales",
@@ -83,30 +81,43 @@
   "headerNavSignUpTOS": "Acepto los <a href=\"/terms\">términos de uso</a>.",
 
   "headerBrowse": "Explorar",
-  
+
   "headerNavSignInTitle": "Iniciar sesión en VidLii",
-  "headerNavSignInForgot": "¿Olvidaste tus datos?",
-  
-  "homeVideosBeingWatched": "Vídeos que se están viendo ahora...",
+  "headerNavSignInForgot": "¿Has olvidado tus datos?",
+
+  "headerDropdownAccountSettings": "Configurar cuenta",
+  "headerDropdownMyProfile": "Mi perfil",
+  "headerDropdownSubscriptions": "Suscripciones",
+  "headerDropdownInbox": "Buzón",
+  "headerDropdownFriends": "Amigos",
+  "headerDropdownChannel": "Mi canal",
+  "headerDropdownVideos": "Vídeos",
+  "headerDropdownPlaylists": "Listas",
+  "headerDropdownAnalytics": "Estadísticas",
+  "headerDropdownManage": "Administrar canales",
+  "headerDropdownCreate": "Crear canal",
+  "headerDropdownQuicklist": "Lista rápida",
+
+  "homeVideosBeingWatched": "Vídeos que se están viendo ahora",
   "homeFeaturedVideos": "Vídeos promocionados",
-  
+
   "homePersonalize": "¿Quieres personalizar esta página principal?",
   "homePersonalize2": "Regístrate para obtener una cuenta de VidLii.",
   "homePersonalize3": "Convierte tu vieja cuenta de VidLii",
-  "homePersonalizeInfo": "Debes convertir tu cuenta vieja de VidLii para acceder a ella.",
-  
+  "homePersonalizeInfo": "Debes convertir tu cuenta vieja de VidLii al nuevo sistema para volver a acceder a ella.",
+
   "homePopularChannels": "Canales populares",
   "homePopularChannelsVideos": "{num} vídeos",
   "homePopularChannelsSubs": "{num} suscriptores",
-  
+
   "homeContest": "¡Concurso de {month}!",
   "homeContestText": "¡Haz un vídeo, súbelo y compártelo!",
   "homeContestText2": "Tema actual: {theme}",
   "homeContestPodium": "Ganadores del anterior concurso",
-  
+
   "homeNew": "Novedades",
   "homeNewRead": "Más información en nuestro blog",
-  
+
   "homeTrendingTrending": "Vídeos destacados",
   "homeTrendingViewed": "Más vistos",
   "homeTrendingDiscussed": "Más comentados",
@@ -116,17 +127,42 @@
   "homeTrendingViewedTitle": "Más vistos",
   "homeTrendingDiscussedTitle": "Más comentados",
   "homeTrendingFavoritedTitle": "Superfavoritos",
-   
+
   "homeTrendingFrom": "De:",
   "homeTrendingViews": "Reproducciones:",
   "homeTrendingPostedIn": "Más en",
 
-  "footerVideoPlayer": "Reproductor",
+  "homeEdit": "Editar",
+
+  "homeRecommendedVideos": "Vídeos recomendados",
+  "homeAnalytics": "Estadísticas",
+  "homeRecentActivity": "Actividad reciente",
+  "homeSubscriptions": "Suscripciones",
+
+  "homeViewAll": "ver todos",
+  "homeSubscriptionsSettings": "Ajustes de suscripciones",
+  "homeSubscriptionsAll": "Todos los canales",
+  "homeNoSubscriptions1": "No estás suscrito a ningún canal",
+  "homeNoSubscriptions2": "Suscribirte a un canal es gratis y te permite estar al día con tus canales favoritos",
+  "homeNoSubscriptions3": "Canales a los que te puedes suscribir:",
+
+  "homeCustomize": "Añadir / Eliminar módulos",
+  "homeEditTitle1": "Añadir / Eliminar módulos",
+  "homeEditTitle2": "Diseño de la pantalla de inicio",
+  "homeEditInfo1": "These are the most recently uploaded videos of channels you're subscribed to",
+  "homeEditInfo2": "Vídeos que VidLii cree que te gustarán",
+  "homeEditInfo3": "Los vídeos más vistos del momento",
+  "homeEditInfo4": "Vídeos seleccionados por la administración de VidLii",
+  "homeEditInfo5": "Los vídeos más populares de hoy basados en varios factores",
+  "homeEditInfo6": "Actividad reciente de tus amigos y canales suscritos",
+  "homeEditInfo7": "Estadísticas sobre tu canal",
+
+  "footerVideoPlayer": "Reproductor de vídeo",
   "footerDarkMode": "Modo oscuro",
   "footerHeader": "Encabezado",
 
-  "footerLanguagesTitle": "Idioma",
-  
+  "footerLanguagesTitle": "Idiomas",
+
    "footerHeaderTitle": "Encabezados",
   "footerHeader1Title": "Pestañas (2008)",
   "footerHeader1": "El famoso encabezado del \"YouTube clásico\". Bastante grande pero tiene la mayoría de características.",
@@ -143,7 +179,8 @@
   "footerHeader61": "Tiempos de carga de 2 minutos no incluídos.",
   "footerHeaderLoggedIn": "Al tener una sesión iniciada, esta configuración se ha guardado en tu perfil.",
   "footerHeaderLoggedOut": "Al no tener una sesión iniciada, esta configuración se ha guardado en tus cookies.",
-  
+  "footerHeaderChange": "Cambiar",
+
   "footerAbout": "Acerca de VidLii",
   "footerBlog": "Blog",
   "footerAboutAbout": "Acerca",
@@ -210,22 +247,22 @@
   "channelsPremium": "Premium",
 
   "modalPasswordTitle": "Restablecer contraseña",
-  "modalPasswordText": "Inserta su dirección de correo electrónico. Allá encontrará un enlace para restablecer su contraseña.",
-  "modalPasswordEmail": "Inserte su dirección de correo electrónico.",
+  "modalPasswordText": "Inserta tu dirección de correo electrónico. Allí encontrarás un enlace para restablecer tu contraseña.",
+  "modalPasswordEmail": "Inserta tu dirección de correo electrónico.",
   "modalPasswordButton": "Obtener nueva contraseña.",
 
   "passwordResetTitle": "Escribe la nueva contraseña:",
   "passwordNewPass": "Nueva contraseña",
   "passwordNewPassRetype": "Reescriba su contraseña",
-  "passwordHint": "La contraseña debe contener más de 8 caracteres. Refuerze su seguridad utilizando símbolos y números.",
+  "passwordHint": "La contraseña debe contener más de 8 caracteres. Refuerza tu seguridad utilizando símbolos y números.",
   "passwordButton": "Cambiar contraseña",
 
-  "activationChangeTitle": "Cambiar la dirección de correo electrónico de su cuenta",
+  "activationChangeTitle": "Cambiar la dirección de correo electrónico de tu cuenta",
   "activationEmailInput": "Dirección de correo electrónico",
   "activationUpdate": "Actualizar",
   "activationSendTitle": "Reenviar el correo de verificación",
   "activationSend": "Enviar",
-  "activationSendDisabled": "Sólo puede enviar 3 verificaciones en una hora",
+  "activationSendDisabled": "Sólo puedes enviar 3 verificaciones en una hora",
   "activationHowTitle": "Cómo activar tu perfil",
   "activationHow": "¡Ya casi acabas! Te hemos enviado un correo de bienvenida con un enlace de verificación.",
   "activationHow1": "Ir a la bandeja de entrada: \"<strong>{email}</strong>\" ",
@@ -253,14 +290,14 @@
   "videoShare": "Compartir",
   "videoFavorite": "Favoritos",
   "videoPlaylists": "Listas",
-  "videoReport": "Marcar",
+  "videoReport": "Reportar",
   "videoShowMore": "más",
   "videoSignUpAction": "Regístrate en VidLii",
-  "videoWantReport": "¿Quieres marcar este vídeo?",
+  "videoWantReport": "¿Quieres reportar este vídeo?",
   "videoWantPlaylist": "¿Quieres añadir este vídeo a una lista de reproducción?",
   "videoWantFavorite": "¿Quieres añadir este vídeo a favoritos?",
-  "videoFavorite1": "Añadir a favoritos",
-  "videoFavorite0": "Quitar de favoritos",
+  "videoFavorite1": "Añadir",
+  "videoFavorite0": "Quitar",
   "videoAddFavorite": "¿Estás seguro de que quieres <strong>añadir</strong> este vídeo a tus favoritos?",
   "videoRemoveFavorite": "¿Estás seguro de que quieres <strong>quitar</strong> este vídeo de tus favoritos?",
   "videoCommentary": "Comentario",
@@ -279,4 +316,38 @@
   "videoDescriptionCategory": "Categoría:",
   "videoDescriptionKeywords": "Etiquetas:",
   "videoDescriptionEmbed": "Insertar"
+
+  "inboxMyAccount": "Mi cuenta",
+  "inboxMenuInbox": ">Buzón",
+  "inboxMenuPersonalMessages": "Mensajes",
+  "inboxMenuInvites": "Solicitudes",
+  "inboxMenuFriendInvites": "Solicitudes de amistad",
+  "inboxMenuChannelInvites": "Solicitudes de canal",
+  "inboxMenuComments": "Comentarios",
+  "inboxMenuVideoComments": "Comentarios en vídeo",
+  "inboxMenuChannelComments": "Comentarios en canal",
+  "inboxMenuProfileComments": "Comentarios en perfil",
+  "inboxMenuBlogComments": "Comentarios en blog",
+  "inboxMenuCommentReplies": "Respuestas a comentarios",
+  "inboxMenuVideoResponses": "Respuestas en vídeo",
+  "inboxMenuSentMessages": "Mensajes enviado",
+  "inboxMenuCustomFolders": "Carpetas personales",
+
+  "inboxMenuSendMessage": "Enviar mensaje",
+  "inboxMenuCreateFolder": "Crear carpeta",
+
+  "inboxActionsDelete": "Borrar",
+  "inboxActionsMarkRead": "Marcar como leído",
+  "inboxActionsMarkUnread": "Marcar como no leído",
+  "inboxActionsAccept": "Aceptar",
+  "inboxActionsDecline": "Rechazar",
+  "inboxActionsAcceptInvite": "Aceptar solicitud",
+  "inboxActionsDeclineInvite": "Rechazar solicitud",
+  "inboxActionsRemove": "Borrar de la carpeta",
+  "inboxActionsViewComment": "Ver comentario",
+  "inboxSearch": "Buscar en buzón",
+
+  "inboxSortFrom": "De:",
+  "inboxSortSubject": "Asunto:",
+  "inboxSortDate": "Fecha:"
 }
