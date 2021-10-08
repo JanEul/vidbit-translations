@@ -17,7 +17,7 @@
 
   "dateFormat": "%b %e, %Y",
   "timeFormat": "%I:%M%p",
-  "dateTimeFormat": "%b%e, %Y %I:%M%p",
+  "dateTimeFormat": "%b %e, %Y %I:%M%p",
   
   "vCat0": "Film i animacja",
   "vCat1": "Samochody i pojazdy",
@@ -190,7 +190,7 @@
   "footerHelpCenter": "Zasoby pomocy",
   "footerCommunity": "Wytyczne dla społeczności",
   "footerDeveloper": "API dla programistów",
-  "footerPartnership": "Partnerstwo",
+  "footerPartnership": "Partnerstwo i Weryfikacja",
   "footerCopyright": "Prawa autorskie",
   "footerAds": "Reklamy",
   "footerAccount": "Twoje konto",
