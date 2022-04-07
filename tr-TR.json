@@ -72,7 +72,7 @@
   "headerBarUploadFile": "Video Dosyası",
   "headerBarUploadCapture": "Çabuk Kayıt",
 
-  "headerNavSignUpTitle": "VidLii Kayıt",
+  "headerNavSignUpTitle": "VidBit Kayıt",
   "headerNavSignUpDisplayName": "Rumuz",
   "headerNavSignUpEmail": "E-Posta",
   "headerNavSignUpPassword": "Parola",
@@ -81,7 +81,7 @@
 
   "headerBrowse": "Keşfet",
 
-  "headerNavSignInTitle": "VidLii Giriş",
+  "headerNavSignInTitle": "VidBit Giriş",
   "headerNavSignInForgot": "Giriş bilgilerini mi unuttun?",
 
   "headerDropdownAccountSettings": "Hesap Ayarları",
@@ -101,8 +101,8 @@
   "homeFeaturedVideos": "Yer Alan Videolar",
 
   "homePersonalize": "Bu ana sayfayı kişiselleştirmek ister misin?",
-  "homePersonalize2": "Bir VidLii hesabı oluştur",
-  "homePersonalize3": "Eski VidLii hesabını dönüştür",
+  "homePersonalize2": "Bir VidBit hesabı oluştur",
+  "homePersonalize3": "Eski VidBit hesabını dönüştür",
   "homePersonalizeInfo": "Eski VidLii hesabına giriş yapmak için onu yeni sisteme dönüştürmelisin",
 
   "homePopularChannels": "Tutulan Kanallar",
