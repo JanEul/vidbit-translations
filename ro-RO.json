@@ -59,7 +59,7 @@
   "headerNavSubscriptions": "Abonamente",
   "headerPromptSignOut": "Ești sigur că vrei să te deloghezi?",
 
-  "views": "{num} vizualizări",
+  "views": "{num} vizionări",
 
   "headerMenuHome": "Acasă",
   "headerMenuVideos": "Videoclipuri",
@@ -97,7 +97,7 @@
   "headerDropdownCreate": "Crează canal",
   "headerDropdownQuicklist": "Quicklist",
 
-  "homeVideosBeingWatched": "Videoclipuri Fiind Vizualizate Acum",
+  "homeVideosBeingWatched": "Videoclipuri Fiind Vizionate Acum",
   "homeFeaturedVideos": "Videoclipuri Distincte",
 
   "homePersonalize": "Doriți să personalizați această pagină?",
@@ -118,12 +118,12 @@
   "homeNewRead": "Citiți mai multe în blogul nostru",
 
   "homeTrendingTrending": "Trending",
-  "homeTrendingViewed": "Cele mai Vizualizate",
+  "homeTrendingViewed": "Cele mai Vizionate",
   "homeTrendingDiscussed": "Cele mai Discutate",
   "homeTrendingFavorited": "Cele mai Preferate",
 
   "homeTrendingTrendingTitle": "Videoclipuri Trending",
-  "homeTrendingViewedTitle": "Videoclipurile cele mai Vizualizate",
+  "homeTrendingViewedTitle": "Videoclipurile cele mai Vizionate",
   "homeTrendingDiscussedTitle": "Videoclipurile cele mai Discutate",
   "homeTrendingFavoritedTitle": "Videoclipurile cele mai Preferate",
 
@@ -212,11 +212,11 @@
   "vcWhenAllTime": "Oricând",
   "vcCategoriesHeader": "Categorii",
 
-  "videosMostPopular": "Most Popular",
-  "videosMostViewed": "Most Viewed",
-  "videosMostDiscussed": "Most Discussed",
-  "videosMostRecent": "Most Recent",
-  "videosBestRated": "Cele mai bu",
+  "videosMostPopular": "Cele mai populare",
+  "videosMostViewed": "Cele mai vizionate",
+  "videosMostDiscussed": "Cele mai discutate",
+  "videosMostRecent": "Cele mai recente",
+  "videosBestRated": "Cele mai bune recenzate",
   "videosAllCategories": "Toate categoriile",
   "videosAllCategoriesIn": "În:",
   "videosSpotlight": "Spotlight:",
@@ -237,7 +237,7 @@
   "channelsAllChannelsIn": "În:",
   "channelsAllChannels": "Toate canalele",
   "channelsChannelVideos": "Videoclipuri",
-  "channelsChannelViews": "Vizualizări",
+  "channelsChannelViews": "Vizionări",
   "channelsChannelSubscribers": "Abonați",
   "channelsChannelComments": "Commentari",
   "channelsChannelRatings": "Recenzii",
