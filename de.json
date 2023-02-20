@@ -72,7 +72,7 @@
   "headerBarUploadFile": "Videodatei",
   "headerBarUploadCapture": "Schnellaufnahme",
 
-  "headerNavSignUpTitle": "VidLii Registrieren",
+  "headerNavSignUpTitle": "VidBit Registrieren",
   "headerNavSignUpDisplayName": "Anzeigename",
   "headerNavSignUpEmail": "E-Mail",
   "headerNavSignUpPassword": "Passwort",
@@ -81,7 +81,7 @@
 
   "headerBrowse": "Stöbern",
 
-  "headerNavSignInTitle": "VidLii Anmelden",
+  "headerNavSignInTitle": "VidBit Anmelden",
   "headerNavSignInForgot": "Zugangsdaten vergessen?",
 
   "headerDropdownAccountSettings": "Kontoeinstellungen",

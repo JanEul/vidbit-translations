@@ -72,7 +72,7 @@
   "headerBarUploadFile": "Video File",
   "headerBarUploadCapture": "Quick Capture",
 
-  "headerNavSignUpTitle": "VidLii Sign Up",
+  "headerNavSignUpTitle": "VidBit Sign Up",
   "headerNavSignUpDisplayName": "Display Name",
   "headerNavSignUpEmail": "E-Mail",
   "headerNavSignUpPassword": "Password",
@@ -81,7 +81,7 @@
 
   "headerBrowse": "Browse",
 
-  "headerNavSignInTitle": "VidLii Sign In",
+  "headerNavSignInTitle": "VidBit Sign In",
   "headerNavSignInForgot": "Forgot your Credentials?",
 
   "headerDropdownAccountSettings": "Account Settings",
@@ -101,9 +101,9 @@
   "homeFeaturedVideos": "Featured Videos",
 
   "homePersonalize": "Want to personalize this homepage?",
-  "homePersonalize2": "Sign up for a VidLii Account",
-  "homePersonalize3": "Convert your old VidLii account",
-  "homePersonalizeInfo": "You must convert your old VidLii account to the new system to sign into it",
+  "homePersonalize2": "Sign up for a VidBit Account",
+  "homePersonalize3": "Convert your old VidBit account",
+  "homePersonalizeInfo": "You must convert your old VidBit account to the new system to sign into it",
 
   "homePopularChannels": "Popular Channels",
   "homePopularChannelsVideos": "{num} Videos",
@@ -149,9 +149,9 @@
   "homeEditTitle1": "Enable/Disable Homepage Modules",
   "homeEditTitle2": "Homepage Design",
   "homeEditInfo1": "These are the most recently uploaded videos of channels you're subscribed to",
-  "homeEditInfo2": "Videos which VidLii thinks you'd like to watch",
+  "homeEditInfo2": "Videos which VidBit thinks you'd like to watch",
   "homeEditInfo3": "Videos which are the most watched at this very moment",
-  "homeEditInfo4": "Specifically selected videos from the VidLii Staff",
+  "homeEditInfo4": "Specifically selected videos from the VidBit Staff",
   "homeEditInfo5": "The most popular videos of today ranked by many factors",
   "homeEditInfo6": "Recent activity from your friends and channels you've subscribed to",
   "homeEditInfo7": "Analytics concerning your active channel",
@@ -180,7 +180,7 @@
   "footerHeaderLoggedOut": "Because you're logged out, this setting is saved in a cookie",
   "footerHeaderChange": "Change Header",
 
-  "footerAbout": "About VidLii",
+  "footerAbout": "About VidBit",
   "footerBlog": "Blog",
   "footerAboutAbout": "About",
   "footerTerms": "Terms of Use",
@@ -191,7 +191,7 @@
   "footerHelpCenter": "Help Center",
   "footerCommunity": "Community Guidelines",
   "footerDeveloper": "Developer API",
-  "footerPartnership": "Partnership",
+  "footerPartnership": "Partnership & Verification",
   "footerCopyright": "Copyright",
   "footerAds": "Advertising",
   "footerAccount": "Your Account",
@@ -265,7 +265,7 @@
   "activationHowTitle": "How to activate your Profile",
   "activationHow": "You're almost there! We've sent you a welcome email with an activation link.",
   "activationHow1": "Go to your Inbox under the email: \"<strong>{email}</strong>\" ",
-  "activationHow2": "Click on the email with the subject: \"<strong>VidLii Activation</strong>\"",
+  "activationHow2": "Click on the email with the subject: \"<strong>VidBit Activation</strong>\"",
   "activationHow3": "Then click on the blue link saying. \"<strong><u>Click Here</u></strong>\"",
   "activationHow4": "After you've done that, you should be good to go!",
   "activationFinal": "Please note that the email might take a few minutes to arrive. Also check your spam folder.",
@@ -291,7 +291,7 @@
   "videoPlaylists": "Playlists",
   "videoReport": "Report",
   "videoShowMore": "Show more",
-  "videoSignUpAction": "Sign up for a VidLii Account",
+  "videoSignUpAction": "Sign up for a VidBit Account",
   "videoWantReport": "Want to report this video?",
   "videoWantPlaylist": "Want to add this video to a playlist?",
   "videoWantFavorite": "Want to favorite this video?",
