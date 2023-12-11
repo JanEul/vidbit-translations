@@ -66,7 +66,7 @@
   "headerMenuChannels": "Kanäle",
   "headerMenuCommunity": "Community",
 
-  "headerBarSearch": "Suche",
+  "headerBarSearch": "Suchen",
   "headerBarSearchSettings": "Sucheinstellungen",
   "headerBarUpload": "Video hochladen",
   "headerBarUploadFile": "Videodatei",
@@ -135,7 +135,7 @@
 
   "homeRecommendedVideos": "Empfohlene Videos",
   "homeAnalytics": "Analytics",
-  "homeRecentActivity": "Jüngste Aktivitäten",
+  "homeRecentActivity": "Letzte Aktivitäten",
   "homeSubscriptions": "Abonnements",
 
   "homeViewAll": "Alles anzeigen",
@@ -152,8 +152,8 @@
   "homeEditInfo2": "Videos, von denen VidBit denkt sie könnten dir gefallen",
   "homeEditInfo3": "Videos, die in diesem Moment am meisten angesehen werden",
   "homeEditInfo4": "Ausgewählte Videos vom VidBit-Personal",
-  "homeEditInfo5": "Die populärsten Videos von Heute, bewertet nach vielen Faktoren",
-  "homeEditInfo6": "Jüngste Aktivitäten von deinen Freunden und abonnierten Kanälen",
+  "homeEditInfo5": "Die beliebtesten Videos von Heute, bewertet nach vielen Faktoren",
+  "homeEditInfo6": "Letzte Aktivitäten von deinen Freunden und abonnierten Kanälen",
   "homeEditInfo7": "Analytics deines aktiven Kanals",
 
   "footerVideoPlayer": "Video-Player",
