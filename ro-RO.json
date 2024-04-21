@@ -50,7 +50,7 @@
   "cCat9": "Artist",
 
   "headerNavSignUp": "Creare cont",
-  "headerNavQuicklist": "QuickList",
+  "headerNavQuicklist": "Listă rapidă",
   "headerNavHelp": "Ajutor",
   "headerNavSignIn": "Loghează-te",
   "headerNavCreateAccount": "Creați un cont",
@@ -92,7 +92,7 @@
   "headerDropdownChannel": "Canalul meu",
   "headerDropdownVideos": "Videoclipuri",
   "headerDropdownPlaylists": "Playlisturi",
-  "headerDropdownAnalytics": "Analytice",
+  "headerDropdownAnalytics": "Analitice",
   "headerDropdownManage": "Gestionare canale",
   "headerDropdownCreate": "Crează canal",
   "headerDropdownQuicklist": "Quicklist",
